@@ -1,5 +1,8 @@
 _repo: A-Manual-of-Historic-Ornament-Treating-upon-the-evolution-tradition-and-development-of-archit__53373
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53373-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Glazier, Richard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47347'
     url: http://www.gutenberg.org/2009/agents/47347
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53373#A-Manual-of-Historic-Ornament-Treating-upon-the-evolution-tradition-and-development-of-archit_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2016-10-26'
 gutenberg_type: Text
